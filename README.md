@@ -17,3 +17,4 @@ Para este projeto ser desenvolvido, foram utilizadas as seguintes tecnologias:
 
 ## 💮 
 Eu por conta, resolvi fazer um README e adicionei um ":hover" no projeto, para que quando o usuário passar o mouse por cima do "botão" possa dar um pequeno zoom chamando a sua atenção para o personagem a ser cliclado.
+E também coloquei em prática o pouco que aprendi até agora sobre o git.
